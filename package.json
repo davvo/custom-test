@@ -1,0 +1,19 @@
+{
+  "name": "customfeature",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.34.0",
+    "rbush": "^1.3.2",
+    "globalmercator": "^0.2.0",
+    "express": "^3.5.0",
+    "canvas": "^1.1.3",
+    "promise": "^4.0.0"
+  }
+}
